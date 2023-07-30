@@ -1,4 +1,4 @@
-## 2. NFA to DFA Conversion
+## NFA to DFA Conversion
 
 Explore the conversion process from Non-deterministic Finite Automata (NFA) to DFA, a crucial step in simplifying automata and optimizing language recognition.
 This C++ code implements the conversion of a given Nondeterministic Finite Automaton (NFA) to its corresponding Deterministic Finite Automaton (DFA). The program takes user input for the NFA transitions and then generates the corresponding DFA transitions based on the provided NFA.
